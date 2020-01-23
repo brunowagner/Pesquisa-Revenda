@@ -1,8 +1,8 @@
 # Roupas
-Tommy Hilfiger
-Lacoste
-Hollister
-Aeropostale
-Ralph Lauren
-Oakley
-Levis
+Tommy Hilfiger  
+Lacoste  
+Hollister  
+Aeropostale  
+Ralph Lauren  
+Oakley  
+Levis  
